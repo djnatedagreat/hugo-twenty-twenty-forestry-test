@@ -6,6 +6,9 @@ description = "This is a description of the page"
 image = ""
 tags = []
 title = "Test Page"
+[menu.main]
+name = "Test"
+weight = 6
 
 +++
 \##This is the page content
